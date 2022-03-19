@@ -1,0 +1,44 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "text": "#f4f5f7",
+      "background": "#121212"
+    },
+    {
+      "background": "#000000",
+      "text": "#ff2929",
+      "id": 2
+    },
+    {
+      "background": "#faff30",
+      "text": "#002eff",
+      "id": 3
+    },
+    {
+      "background": "#ffc9c9",
+      "text": "#b42a2a",
+      "id": 4
+    },
+    {
+      "background": "#cbffb5",
+      "text": "#49ad24",
+      "id": 5
+    },
+    {
+      "background": "#c04c4c",
+      "text": "#000000",
+      "id": 6
+    },
+    {
+      "background": "#ff5151",
+      "text": "#570000",
+      "id": 7
+    },
+    {
+      "background": "#ababff",
+      "text": "#6564e9",
+      "id": 8
+    }
+  ]
+}
